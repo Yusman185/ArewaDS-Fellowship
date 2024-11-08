@@ -1,2 +1,4 @@
 # ArewaDS-Fellowship
- Assignment of week one
+Assignment of week one
+Repository is like an open source platform that enables me to keep my codes private or enable public access to view and temper with it. In a repsoitory i can create multiple folders and save my programs. In a m ore crystak content i can say that my repository is my faculty of engineering whereas the folders in it is my departments, I can further have different labs in the depertment. Therefor Github is the overall institution.
+Yusuf usman. I am an electrical engineer working at the National Agency for sience and Engineering Infrastracture NASENI, I did my undergraduate at the Islamic University of technology Dhaka banladesh, I am presently enroll in Nile university of Nigeria Abuja doing my Masters in Electrical Engineering with specialization in Telecommunications. 
